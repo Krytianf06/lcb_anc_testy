@@ -1,0 +1,165 @@
+2026-02-25 12:38:23 [UPLOAD] === Upload request ===
+2026-02-25 12:38:23 [UPLOAD] Method: POST
+2026-02-25 12:38:23 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryy1ulCjDJS3lt8tYF
+2026-02-25 12:38:23 [UPLOAD] FILES keys: image
+2026-02-25 12:38:23 [UPLOAD] FILES count: 1
+2026-02-25 12:38:23 [UPLOAD] File: e86cd6813171b9ac53cb11a3ed2fef02.jpg, size: 101725, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpkVRxrX
+2026-02-25 12:38:23 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:38:23 [UPLOAD] Image dimensions: 600x399
+2026-02-25 12:38:23 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/700cca0a7910cedb46ee0b8c3696057f.jpg
+2026-02-25 12:38:23 [UPLOAD] Dir writable: yes
+2026-02-25 12:38:23 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/700cca0a7910cedb46ee0b8c3696057f.jpg
+2026-02-25 12:38:23 [UPLOAD] File exists check: yes
+2026-02-25 12:38:23 [UPLOAD] File size on disk: 101725
+2026-02-25 12:38:23 [UPLOAD] GD reprocessing OK
+2026-02-25 12:38:23 [UPLOAD] SUCCESS! ID: 135, path: img/700cca0a7910cedb46ee0b8c3696057f.jpg
+2026-02-25 12:43:26 [UPLOAD] === Upload request ===
+2026-02-25 12:43:26 [UPLOAD] Method: POST
+2026-02-25 12:43:26 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryiuZTNKpJNYyoeQ24
+2026-02-25 12:43:26 [UPLOAD] FILES keys: image
+2026-02-25 12:43:26 [UPLOAD] FILES count: 1
+2026-02-25 12:43:26 [UPLOAD] File: xxx.jpg, size: 620510, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpuARrnj
+2026-02-25 12:43:26 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:43:26 [UPLOAD] Image dimensions: 1504x2016
+2026-02-25 12:43:26 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/3b6b3f5ae47d8b06903a5d6d11b7e366.jpg
+2026-02-25 12:43:26 [UPLOAD] Dir writable: yes
+2026-02-25 12:43:26 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/3b6b3f5ae47d8b06903a5d6d11b7e366.jpg
+2026-02-25 12:43:26 [UPLOAD] File exists check: yes
+2026-02-25 12:43:26 [UPLOAD] File size on disk: 620510
+2026-02-25 12:43:26 [UPLOAD] GD reprocessing OK
+2026-02-25 12:43:26 [UPLOAD] SUCCESS! ID: 136, path: img/3b6b3f5ae47d8b06903a5d6d11b7e366.jpg
+2026-02-25 12:43:48 [UPLOAD] === Upload request ===
+2026-02-25 12:43:48 [UPLOAD] Method: POST
+2026-02-25 12:43:48 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryTFAemD4rRfZmnojQ
+2026-02-25 12:43:48 [UPLOAD] FILES keys: image
+2026-02-25 12:43:48 [UPLOAD] FILES count: 1
+2026-02-25 12:43:48 [UPLOAD] File: d44d02f5093cbe7ee04ee42c1a0bdef1.jpg, size: 577302, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/php2bH1s1
+2026-02-25 12:43:48 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:43:48 [UPLOAD] Image dimensions: 1341x1788
+2026-02-25 12:43:48 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/a7885c9fb4fde1c0296416e4b1dc4b5c.jpg
+2026-02-25 12:43:48 [UPLOAD] Dir writable: yes
+2026-02-25 12:43:48 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/a7885c9fb4fde1c0296416e4b1dc4b5c.jpg
+2026-02-25 12:43:48 [UPLOAD] File exists check: yes
+2026-02-25 12:43:48 [UPLOAD] File size on disk: 577302
+2026-02-25 12:43:49 [UPLOAD] GD reprocessing OK
+2026-02-25 12:43:49 [UPLOAD] SUCCESS! ID: 137, path: img/a7885c9fb4fde1c0296416e4b1dc4b5c.jpg
+2026-02-25 12:44:42 [UPLOAD] === Upload request ===
+2026-02-25 12:44:42 [UPLOAD] Method: POST
+2026-02-25 12:44:42 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryVpNIOAbvOHnD3Bac
+2026-02-25 12:44:42 [UPLOAD] FILES keys: image
+2026-02-25 12:44:42 [UPLOAD] FILES count: 1
+2026-02-25 12:44:42 [UPLOAD] File: dd9f57c4a8b9e8f58c0e1d05a52ff068.jpg, size: 418731, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpYKwgzb
+2026-02-25 12:44:42 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:44:42 [UPLOAD] Image dimensions: 1810x1215
+2026-02-25 12:44:42 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/fe8e4e197ca9f6e4453f2075962ff59c.jpg
+2026-02-25 12:44:42 [UPLOAD] Dir writable: yes
+2026-02-25 12:44:42 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/fe8e4e197ca9f6e4453f2075962ff59c.jpg
+2026-02-25 12:44:42 [UPLOAD] File exists check: yes
+2026-02-25 12:44:42 [UPLOAD] File size on disk: 418731
+2026-02-25 12:44:42 [UPLOAD] GD reprocessing OK
+2026-02-25 12:44:42 [UPLOAD] SUCCESS! ID: 138, path: img/fe8e4e197ca9f6e4453f2075962ff59c.jpg
+2026-02-25 12:45:07 [UPLOAD] === Upload request ===
+2026-02-25 12:45:07 [UPLOAD] Method: POST
+2026-02-25 12:45:07 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryKIqhzjxLE7JPN5kN
+2026-02-25 12:45:07 [UPLOAD] FILES keys: image
+2026-02-25 12:45:07 [UPLOAD] FILES count: 1
+2026-02-25 12:45:07 [UPLOAD] File: 2d737ccab5abf6017dac7f6b27799176.jpg, size: 360668, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpHF81iv
+2026-02-25 12:45:07 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:45:07 [UPLOAD] Image dimensions: 1810x1215
+2026-02-25 12:45:07 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/6767b38812a097cf06c5760d81da9cba.jpg
+2026-02-25 12:45:07 [UPLOAD] Dir writable: yes
+2026-02-25 12:45:07 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/6767b38812a097cf06c5760d81da9cba.jpg
+2026-02-25 12:45:07 [UPLOAD] File exists check: yes
+2026-02-25 12:45:07 [UPLOAD] File size on disk: 360668
+2026-02-25 12:45:07 [UPLOAD] GD reprocessing OK
+2026-02-25 12:45:07 [UPLOAD] SUCCESS! ID: 139, path: img/6767b38812a097cf06c5760d81da9cba.jpg
+2026-02-25 12:46:15 [UPLOAD] === Upload request ===
+2026-02-25 12:46:15 [UPLOAD] Method: POST
+2026-02-25 12:46:15 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryopfJoI1UXKzrAjz4
+2026-02-25 12:46:15 [UPLOAD] FILES keys: image
+2026-02-25 12:46:15 [UPLOAD] FILES count: 1
+2026-02-25 12:46:15 [UPLOAD] File: 80fb5687e7164154f877748a2f7a9fa1.jpg, size: 552670, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpdFcr51
+2026-02-25 12:46:15 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:46:15 [UPLOAD] Image dimensions: 1536x2048
+2026-02-25 12:46:15 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/04d1052c48bb3354e89be65dae4e038e.jpg
+2026-02-25 12:46:15 [UPLOAD] Dir writable: yes
+2026-02-25 12:46:15 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/04d1052c48bb3354e89be65dae4e038e.jpg
+2026-02-25 12:46:15 [UPLOAD] File exists check: yes
+2026-02-25 12:46:15 [UPLOAD] File size on disk: 552670
+2026-02-25 12:46:15 [UPLOAD] GD reprocessing OK
+2026-02-25 12:46:15 [UPLOAD] SUCCESS! ID: 140, path: img/04d1052c48bb3354e89be65dae4e038e.jpg
+2026-02-25 12:46:29 [UPLOAD] === Upload request ===
+2026-02-25 12:46:29 [UPLOAD] Method: POST
+2026-02-25 12:46:29 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundarylIdqznIGU8FH2lYL
+2026-02-25 12:46:29 [UPLOAD] FILES keys: image
+2026-02-25 12:46:29 [UPLOAD] FILES count: 1
+2026-02-25 12:46:29 [UPLOAD] File: 96a4d4959bf629c1cc27533a1a59df02.jpg, size: 659795, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpGKe9Ov
+2026-02-25 12:46:29 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:46:29 [UPLOAD] Image dimensions: 2048x1536
+2026-02-25 12:46:29 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/52d3de38f09e835da7fd44a856e106f1.jpg
+2026-02-25 12:46:29 [UPLOAD] Dir writable: yes
+2026-02-25 12:46:29 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/52d3de38f09e835da7fd44a856e106f1.jpg
+2026-02-25 12:46:29 [UPLOAD] File exists check: yes
+2026-02-25 12:46:29 [UPLOAD] File size on disk: 659795
+2026-02-25 12:46:29 [UPLOAD] GD reprocessing OK
+2026-02-25 12:46:29 [UPLOAD] SUCCESS! ID: 141, path: img/52d3de38f09e835da7fd44a856e106f1.jpg
+2026-02-25 12:46:55 [UPLOAD] === Upload request ===
+2026-02-25 12:46:55 [UPLOAD] Method: POST
+2026-02-25 12:46:55 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryo4eaRM2BpVdcKEu2
+2026-02-25 12:46:55 [UPLOAD] FILES keys: image
+2026-02-25 12:46:55 [UPLOAD] FILES count: 1
+2026-02-25 12:46:55 [UPLOAD] File: 85d7c319d4fb358bab441beea8dceeaf.jpg, size: 760886, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpIBPHvu
+2026-02-25 12:46:55 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:46:55 [UPLOAD] Image dimensions: 1543x2048
+2026-02-25 12:46:55 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/c89a906c18b00240816bf8078f3fee51.jpg
+2026-02-25 12:46:55 [UPLOAD] Dir writable: yes
+2026-02-25 12:46:55 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/c89a906c18b00240816bf8078f3fee51.jpg
+2026-02-25 12:46:55 [UPLOAD] File exists check: yes
+2026-02-25 12:46:55 [UPLOAD] File size on disk: 760886
+2026-02-25 12:46:55 [UPLOAD] GD reprocessing OK
+2026-02-25 12:46:55 [UPLOAD] SUCCESS! ID: 142, path: img/c89a906c18b00240816bf8078f3fee51.jpg
+2026-02-25 12:47:08 [UPLOAD] === Upload request ===
+2026-02-25 12:47:08 [UPLOAD] Method: POST
+2026-02-25 12:47:08 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryBgdw0edAygzBHFMG
+2026-02-25 12:47:08 [UPLOAD] FILES keys: image
+2026-02-25 12:47:08 [UPLOAD] FILES count: 1
+2026-02-25 12:47:08 [UPLOAD] File: 0aa576a3913ac598157b012aab1660c5.jpg, size: 820996, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpRQPiQT
+2026-02-25 12:47:08 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:47:08 [UPLOAD] Image dimensions: 2048x1536
+2026-02-25 12:47:08 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/48c30f13691f51c2ff43cd0f5ad7f189.jpg
+2026-02-25 12:47:08 [UPLOAD] Dir writable: yes
+2026-02-25 12:47:08 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/48c30f13691f51c2ff43cd0f5ad7f189.jpg
+2026-02-25 12:47:08 [UPLOAD] File exists check: yes
+2026-02-25 12:47:08 [UPLOAD] File size on disk: 820996
+2026-02-25 12:47:08 [UPLOAD] GD reprocessing OK
+2026-02-25 12:47:08 [UPLOAD] SUCCESS! ID: 143, path: img/48c30f13691f51c2ff43cd0f5ad7f189.jpg
+2026-02-25 12:47:24 [UPLOAD] === Upload request ===
+2026-02-25 12:47:24 [UPLOAD] Method: POST
+2026-02-25 12:47:24 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundary1q3MZNZmAG1kA2GP
+2026-02-25 12:47:24 [UPLOAD] FILES keys: image
+2026-02-25 12:47:24 [UPLOAD] FILES count: 1
+2026-02-25 12:47:24 [UPLOAD] File: 0f0cbbde7c97882749e0dd87cfe731c9.jpg, size: 939840, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpcmvZ6F
+2026-02-25 12:47:24 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:47:24 [UPLOAD] Image dimensions: 1536x2048
+2026-02-25 12:47:24 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/8ad6cc4b9bb9a096e5b700b54db9a577.jpg
+2026-02-25 12:47:24 [UPLOAD] Dir writable: yes
+2026-02-25 12:47:24 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/8ad6cc4b9bb9a096e5b700b54db9a577.jpg
+2026-02-25 12:47:24 [UPLOAD] File exists check: yes
+2026-02-25 12:47:24 [UPLOAD] File size on disk: 939840
+2026-02-25 12:47:24 [UPLOAD] GD reprocessing OK
+2026-02-25 12:47:24 [UPLOAD] SUCCESS! ID: 144, path: img/8ad6cc4b9bb9a096e5b700b54db9a577.jpg
+2026-02-25 12:47:34 [UPLOAD] === Upload request ===
+2026-02-25 12:47:34 [UPLOAD] Method: POST
+2026-02-25 12:47:34 [UPLOAD] Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryDVuIIzrDY2VltdlV
+2026-02-25 12:47:34 [UPLOAD] FILES keys: image
+2026-02-25 12:47:34 [UPLOAD] FILES count: 1
+2026-02-25 12:47:34 [UPLOAD] File: 63fa5ec5fe96e3e961147875e62bc1ad.jpg, size: 863266, type: image/jpeg, error: 0, tmp: /home/l/lcb/tmp/phpqMlyY3
+2026-02-25 12:47:34 [UPLOAD] Detected MIME: image/jpeg
+2026-02-25 12:47:34 [UPLOAD] Image dimensions: 2048x1536
+2026-02-25 12:47:34 [UPLOAD] Target: /home/l/lcb/www/anc/api/../img/56e3e4e533a38d48da1b951e9e10410f.jpg
+2026-02-25 12:47:34 [UPLOAD] Dir writable: yes
+2026-02-25 12:47:34 [UPLOAD] File moved successfully to: /home/l/lcb/www/anc/api/../img/56e3e4e533a38d48da1b951e9e10410f.jpg
+2026-02-25 12:47:34 [UPLOAD] File exists check: yes
+2026-02-25 12:47:34 [UPLOAD] File size on disk: 863266
+2026-02-25 12:47:35 [UPLOAD] GD reprocessing OK
+2026-02-25 12:47:35 [UPLOAD] SUCCESS! ID: 145, path: img/56e3e4e533a38d48da1b951e9e10410f.jpg

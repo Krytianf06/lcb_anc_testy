@@ -1,0 +1,21 @@
+# Blokada wykonywania skryptów
+<FilesMatch "\.(php|phtml|php3|php4|php5|phps|cgi|pl|py|jsp|asp|aspx|sh|bash)$">
+    Require all denied
+</FilesMatch>
+
+# Wyłącz PHP engine
+php_flag engine off
+
+# Wyłącz CGI
+Options -ExecCGI
+
+# Blokada directory listing
+Options -Indexes
+
+# Wymuś Content-Disposition: attachment (wymusza pobieranie, nie otwieranie)
+<FilesMatch "\.(pdf|docx|doc)$">
+    Header set Content-Disposition attachment
+</FilesMatch>
+
+# Blokada MIME sniffing
+Header set X-Content-Type-Options nosniff
