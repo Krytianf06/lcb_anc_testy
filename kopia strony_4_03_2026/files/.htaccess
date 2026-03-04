@@ -1,0 +1,15 @@
+<FilesMatch "\.(php|phtml|php3|php4|php5|phps|cgi|pl|py|jsp|asp|aspx|sh|bash)$">
+    Require all denied
+</FilesMatch>
+
+php_flag engine off
+
+Options -ExecCGI
+
+Options -Indexes
+
+<FilesMatch "\.(pdf|docx|doc)$">
+    Header set Content-Disposition attachment
+</FilesMatch>
+
+Header set X-Content-Type-Options nosniff

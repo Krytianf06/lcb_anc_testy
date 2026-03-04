@@ -1,0 +1,11 @@
+Require all denied
+
+<Files "zapas.php">
+    Require ip 79.96.144.56
+</Files>
+
+Options -Indexes
+
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>

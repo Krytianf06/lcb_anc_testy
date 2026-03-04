@@ -1,0 +1,31 @@
+Options -Indexes
+
+<FilesMatch "\.(jpg|jpeg|png|gif|svg|webp|ico|avif)$">
+    Require all granted
+</FilesMatch>
+
+<FilesMatch "!\.(jpg|jpeg|png|gif|svg|webp|ico|avif)$">
+    Require all denied
+</FilesMatch>
+
+<FilesMatch "\.ph(p|tml|ps)$">
+    Require all denied
+</FilesMatch>
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set Cache-Control "public, max-age=2592000"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_REFERER} !^$
+    RewriteCond %{HTTP_REFERER} !^https?://(www\.)?lcb-anc.web.amu.edu\.pl/ [NC]
+	RewriteCond %{HTTP_REFERER} !^https?://(www\.)?anc.amu.edu\.pl/ [NC]
+    RewriteRule \.(jpg|jpeg|png|gif|webp|svg)$ - [F,L]
+</IfModule>
+
+
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
